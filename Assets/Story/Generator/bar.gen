@@ -1,0 +1,16 @@
+A bar has a name from bar names.
+dive bar, biker bar, tavern, tiki bar, pub, lounge, hipster bar, wine bar, and roadhouse are kinds of bar.
+
+A bar has a human called its bartender.
+A bar has 4 seatings called its occupants.
+
+A seating has a human called its customer.
+A seating has a location called its seat.
+
+atbar and notatbar are kinds of location
+
+table, booth, standing, and playing pool are kinds of notatbar.
+
+notatbar can be front, back, corner, or dark corner.
+
+Pressing "bar" means "imagine a bar".

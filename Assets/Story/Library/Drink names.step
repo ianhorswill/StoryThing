@@ -1,0 +1,23 @@
+﻿[randomly]
+DrinkName: [Flavor] [Brand]
+DrinkName: diet [Flavor] [Brand]
+DrinkName: [Flavor] [Brand] zero
+DrinkName: [Flavor] [Brand] classic
+DrinkName: [Flavor] [Brand] with boba
+
+[randomly]
+Flavor: fish
+Flavor: durian
+Flavor: anchovy
+Flavor: pineapple
+Flavor: sausage
+Flavor: sauerkraut
+
+[randomly]
+Brand: Mountain Drizzle
+Brand: Dr. Popper
+Brand: Karma Cola
+Brand: latte
+Brand: matcha
+Brand: iced tea
+Brand: milk

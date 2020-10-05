@@ -1,0 +1,11 @@
+﻿Describe [Bar ?b]:
+	?b/FullName is a ?b/Kind.  The bartender is ?b/Bartender/DescribeOnce.
+
+	[ForEach [Occupant ?b ?seating]
+		[Describe ?seating]]
+[end]
+
+Describe [Seating ?s]:
+	?s/Customer/DescribeOnce is ?s/Seat/Describe.
+	?s/Customer look[s] [randomly] [cool] sullen [or] [cool] drunk [or] [cool] vacant [or] [cool] lost [or] [cool] like they're trying to wash away a bad day [or] bored [end].
+[end]

@@ -1,0 +1,79 @@
+﻿DescribeOnce [Named ?who]: ?who
+DescribeOnce ?who: ?who with ?who/SalientDetail 
+
+PersonDescription ?person: a ?person/AgeTerm+Gender
+DescribeFully ?who: ?who/FullName+Mentioned is a ?who/AgeTerm+Gender. ?who/DescribeFace [set LastDescribed ?who] [add ?who Named]
+
+DescribeFace ?who:
+	?who/S ?who/Face/Eye/Adjectives eyes regard you [randomly] coldly [or] warmly [or] with indifference [or] idly [end],
+	?who/S ?who/Face/Mouth/Adjectives mouth in a smirk.
+	?who has ?who/Face/Hair/Adjectives hair.
+[end]
+
+Gender ?x:
+	[case ?x] 
+		Male: man [or] 
+		Female: woman 
+		[else] person
+	[end]
+[end]
+
+AgeTerm ?p:
+	[Age ?p ?a]
+	[case ?a]
+		[> 65] : old [or]
+		[> 40] : middle-aged [or] 
+		[> 30] : 30-something [or] 
+		[> 20] : 20-something 
+	[else] teenage
+	[end]
+[end]
+
+Describe [Location ?l]:
+	[case ?l]
+		Table: sitting at a table [Placement ?l] [or]
+		Booth: sitting in a booth [Placement ?l] [or] 
+		PlayingPool: playing pool [Placement ?l] [or] 
+		Standing: standing [Placement ?l] [or] 
+		Atbar: at the bar
+	[end]
+[end]
+
+Placement ?l:
+	[case ?l]
+		Front: in front [or]
+		Back: in back [or]
+		Corner: in the corner [or]
+		DarkCorner: in a dark corner 
+		[else]
+	[end]
+[end]
+
+SalientDetail ?who: [Max ?salience [Detail ?who ?salience]]
+
+[generator]
+Detail [Human ?who] ?salience: [Face ?who ?face] [FaceDetail ?who ?face ?salience]
+[generator][randomly]
+FaceDetail ? ?f ?s: [Eye ?f ?e] [EyeDetail ?e ?s] eyes
+FaceDetail ? ?f ?s: a [Mouth ?f ?m] [MouthDetail ?m ?s] mouth
+FaceDetail ?who ?f ?s: [Hair ?f ?h] [HairDetail ?who ?h ?s] hair
+FaceDetail ?who ?f ?s: a [Nose ?f ?n] [NoseDetail ?n ?s] nose
+
+EyeDetail [Mismatched ?e] 2: mismatched
+EyeDetail [Blue ?e] 1: piercing blue
+EyeDetail [Blue ?e] 1: striking green
+EyeDetail ?e 0: ?e/Adjectives
+
+MouthDetail [Sensual ?m] 1: sensual
+MouthDetail [Cruel ?m] 1: cruel
+MouthDetail ?m 0: ?m/Adjectives
+
+HairDetail ? [Anime ?h] 3: anime
+HairDetail ?who [Ginger ?h] 2: [Female ?who] flaming red
+HairDetail ?who [Blond ?h] 2: [Female ?who] blond
+HairDetail ? ?h 0: ?h/Adjectives
+
+NoseDetail [Broken ?n] 2: broken
+NoseDetail [Aristocratic ?n] 1: Aristocratic
+NoseDetail [Big ?n] 1: big
+NoseDetail ?n 0: ?n/Adjectives

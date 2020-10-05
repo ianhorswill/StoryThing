@@ -1,0 +1,37 @@
+﻿Initially:
+	[set LatestHe null]
+    [set LatestShe null]
+	[set LatestThey null]
+	[set LatestIt null]
+	[set LastDescribed null]
+	[set Named Empty]
+[end]
+
+GenerateText ?what:
+	[ResetConversationalState]
+	[Describe ?what]
+[end]
+
+ResetConversationalState:
+	[set LatestHe null]
+	[set LatestShe null]
+	[set LatestThey null]
+	[set LatestIt null]
+[end]
+
+Mention [Human ?person]: [MentionPerson ?person]
+Mention ? : ?other/Write [set ThirdPersonSingular true]
+
+Mentioned ?what: [case ?what] Male: [set LatestHe ?what] [or] Female: [set LatestShe ?what] [or] Human: [set LatestThey ?what] [else] [set LatestIt ?what] [end]
+
+MentionPerson LatestHe: he [set ThirdPersonSingular true]
+MentionPerson LatestShe: she [set ThirdPersonSingular true]
+MentionPerson LatestThey: they [set ThirdPersonSingular false]
+MentionPerson [Named ?who]: ?who/GivenName [Mentioned ?who] [set ThirdPersonSingular true]
+MentionPerson ?who: [StartLink ?who] [StartBold] [PersonDescription ?who]  [EndBold] [EndLink] [Mentioned ?who] [set ThirdPersonSingular true]
+
+S LatestHe: his
+S LatestShe: her
+S LatestThey : their
+S LatestIt : its
+S ?x: ?x's

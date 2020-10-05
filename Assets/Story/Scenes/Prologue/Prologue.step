@@ -1,0 +1,13 @@
+﻿Heading: Prologue
+
+BeginningOfStory: ...
+
+Text: 
+	[sequence]
+	In which our heroines set out to obtain a [DrinkName]
+	[then] Testing ...
+	[then] Testing 1 ...
+	[then] Testing 1 2 ...
+	[then] Testing 1 2 3 ... [NextScene "Chapter 1"]
+	[end]
+[end]

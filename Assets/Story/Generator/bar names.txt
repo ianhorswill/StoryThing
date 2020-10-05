@@ -1,0 +1,435 @@
+Ace Bounce
+American Social
+Bandits Bar
+Bar One
+Better Days
+Black Market
+Boycott Bar
+Clock Bar
+Dirty Habit
+Fireside Bar
+Gypsy Bar
+Happy Daze
+Highbar
+Honor Amongst Thieves
+Hot Bird
+Kill Your Idol
+Last Call Bar
+Level 9 Rooftop Bar
+Lone Palm
+Magic Lounge
+Nowhere Lounge
+On the Rocks Bar
+Phone Booth
+Purdy Lounge
+Rustic Roof
+Seven Grand
+Sparrow
+Tavern Law
+The Boardroom
+The Broken Record
+The Fainting Goat
+The Lost Leaf
+The Milk Room
+The Old Monk
+The Sitting Room
+The Tasting Room
+The Whistler
+Top of the Mark
+Aero Club Bar
+Angels and Kings
+Bar Alter
+Big Easy
+Bitter & Twisted
+Bonus Round
+Brotherhood of Thieves
+Coach House
+Double Wide Bar
+Floor 13 Rooftop Bar
+Happiest Hour
+Hard Water
+Hi Dive Bar
+Horsefeather
+Kings Beer
+Last Rites
+Lost Boy
+Lost Weekend
+Men at Wok
+Noble Experiment
+Open Sesame
+Pi Bar
+Quarter Lounge
+Scarlet Lounge
+Secret’s Bar
+Stock & Stable
+Tempest Bar
+The Corner
+The Crescent Lounge
+The Grizzled Wizard
+The Hidden Vine
+The Masion Bar
+The Mix Up Bar
+The Pastry War
+The Tipsy Cow
+Third Rail
+Under Tow
+Whistle Top
+Angels Trumpet Ale House
+Atomic Liquors
+Bar of the Gods
+Beer and Loathing in Dundee
+Bender’s Bar and Grill
+Bond Bar
+Break Room Bar and Grill
+Comet Tavern
+Conga Bar
+Duchess Tavern
+Float at Hard Rock
+Glow Bar
+Hamilton’s Tavern
+Highside Bar
+Howl at the Moon
+Lava Lounge
+Met Cafe & Bar
+Mustard’s Last Stand
+Oasis Lounge
+Original Gravity
+Pacific Cocktail Haven
+Pizza Bar
+Raised by Wolves
+Royale Lounge
+Shorty’s
+Streamline Tavern
+Thai & Mighty
+The Cask
+The Dirty Drummer
+The Grapevine Bar
+The Mighty
+The People’s Republik
+The Snug
+The Tower Bar
+The Yard
+Unphogettable
+Wildhawk
+Wine Vault
+21 & Cup
+Ballard Loft
+Bar Smith
+Basic Kneads Pizza
+Bloodhound
+Boxcar Ale House
+Brew Ha Ha
+Butter
+Double A
+Dunes Lounge
+Elixir
+False Idol
+Happy Birthday Bar
+Hooverville Bar
+Hop Sing
+KUSH
+Lucky 13
+Mama Tried
+Mother’s Bar & Grill
+No. 3 Social
+Oven + Vine
+Palmer Place
+Red Bar
+Round Table Sportsbar
+Side Bar
+Styx Sports Bar
+The 500 Club
+The Bitter End
+The Dirty Rabbit
+The Hideout
+The Little Woody
+The Pitch & Roll
+The Shout! House
+The Twilight Exit
+Town Kitchen & Bar
+Wet Deck Lounge
+Wish You Were Beer
+Altitude Sky Lounge
+Bar Cotto
+Barbarossa Lounge
+Beaver Bar
+Blackbird Ordinary
+Bourbon & Branch
+Bull Shooters
+Club Deluxe
+Corner Pocket
+Dutch Kills
+Fat Angel
+Forgery Bar
+Heartbeat
+Hopleaf
+Hyde Out
+Jumbo’s Clown Room
+Madison Pub
+Midnight Rambler
+Moon Work
+Oddjob
+Over the Tapas
+Playland Bar
+Redwood Room
+Rum Runners Bar
+Silver Pony Bar & Grill
+Sweet Liberty Drinks
+The Aviary
+The Drawing Room
+The High Dive
+The Library Sports Bar
+The Reef Beach Bar
+The Riddler
+The Underground
+Torch Cigar Bar
+Triangle Pub
+Waterfront Bar & Grill
+Wood Tavern
+Aesop’s Tables
+Bar Collins
+Bean Me Up
+Bikini Bar
+Blonde Bar
+Brews Brothers
+Bubba’s Sulky Lounge
+Cinch Saloon
+Crimson Lounge
+Edge Steak & Bar
+Foxhole
+Grumpy’s Goat Shack
+Hard Times & Misery Saloon
+Hogwash
+Industry Alley Bar
+Liberty
+Liquor Lounge
+Mission Bar
+Moon Valley Grill
+Olde 99
+Polite Provisions
+Potter’s Lounde
+Racket
+Rips Bar
+SkyBar
+Sugarcane
+The Bar at Level 25
+The Drifter
+The Duce
+The Jack Saloon
+The Monk’s Kettle
+The Riptide
+The Union Beer Store
+The Womack
+Tiki Haven
+Twin Peaks Tavern
+Vito’s
+Amelie
+Bar None
+Beaker & Gray
+Black Swan Saloon
+Buddha Lounge
+Cityscape Bar & Lounge
+Cold Beers
+Cold Drinks Bar
+Eastbound and Down Icehouse
+Freehand
+Gold Cane Cocktail Lounge
+Golden Gate Tap Room
+Half Moon Sports Grill
+Homeslice
+Islander Bar and Grill
+Local Edition
+Moe Bar
+Mojito Bar
+Monty’s Sunset
+Olive or Twist
+Ozzie’s
+Prohibition
+Repour Bar
+Rye
+Skylark
+TAP 42
+The Beehive
+The Bourbon Bar
+The Dressing Room
+The Ladies’ Room
+The Monkey Farm Cafe
+The Room Cafe and Bar
+The Saloon
+The Violet Hour
+Twist
+Upper East Bar
+Valley Bar
+York Tavern
+95 Slide
+Bar Bevy
+Batch Gastropub
+Bleau Bar
+Bow Bow Cocktail Lounge
+Broken Shaker
+Cantina
+Death & Co.
+Dilly Dally Lounge
+Fronton Bar
+Gramps
+Hazlewood
+Holy Water
+Home & Awat
+Inwood Tavern
+Le Bar
+Leny’s Place
+Mecca Cafe
+Mongoose Versus Cobra
+Noc Noc
+Pop’s Bar
+Rob Roy
+Rossi’s
+Smog Cutter
+Smuggler’s Cove
+The Big 4
+The Billy Goat Tavern
+The Brewseum
+The Grackle
+The Libertine Bar
+The Red, White, and Brew
+The ScapeGoat
+The Surly Wench Pub
+The Wetlab
+The Whining Pig
+Three Dots and a Dash
+Tin ‘n’ Lint
+WunderBar
+8 Track
+Anthem
+Azul Rooftop Bar + Lounge
+Back Lot
+Bar Peached
+Baretto
+Barfly’s
+Bender Bar & Grill
+Black Sheep Lodge
+Boomerz
+Buck Wild
+Bungalow
+Cactus Cafe
+Carousel Lounge
+Clive Bar
+Container Bar
+Continental Club
+Corner
+Craft Pride
+Crow Bar
+Crown and Anchor Pub
+Culinary Dropout
+Deep Eddy Cabaret
+Dive Bar and Lounge
+Donn’s Depot
+Draught House Pub & Brewery
+Drink Well
+Drinks Lounge
+EastSide Tavern
+Easy Tiger
+Eberly
+Edge Rooftop + Bar
+Firehouse Lounge
+Full Circle Bar
+Garage
+Gibson Bar
+Giddy Ups
+Gin Bar
+Growler Room
+Half Step
+HandleBar
+Happy Trails
+Hard Luck Lounge
+Haymaker
+Hen House
+Here Nor There
+Hideout Pub
+Hole in the Wall
+Hopfields
+Indian Roller
+Jade Room
+Knomad Bar
+Lala’s
+Las Perlas
+Latchkey
+Long Play Lounge
+Loro
+Love Goat
+Lucille
+MacGuffins
+Margaritaville
+Midnight Cowboy
+Mohawk
+Moonshine Patio Bar & Grill
+Moontower Saloon
+Mugshots
+Nickel City
+Night Owl
+Nightcap
+Nosh & Bevvy
+Odd Duck
+Paradise On Ice
+Parlor and Yard
+Pour House Pub
+Prohibition Creamery
+Revelry on the Boulevard
+Rules & Regs
+Rustic Tap
+Sahara Lounge
+Salty Sow
+School House Pub
+Scoreboard
+Shangri-La
+Sky Bar
+Skylark Lounge
+Speakeasy
+Spider House
+Stag & Finch
+Stagger Lee
+Stay Gold
+Sway
+Texas Mist
+The Aristocrat Lounge
+The Barn
+The Beer Plant
+The Brixton
+The Butterfly Bar
+The Cat’s Pajamas
+The Cloak Room
+The Dogwood
+The Driskill Bar
+The Far Out Lounge and Stage
+The Front Page
+The Git Out
+The Golden Goose
+The Highball
+The Hive Bar
+The Jackalope
+The Liberty
+The Little Longhorn Saloon
+The Local Post Pub
+The Lost Lei
+The Lost Well
+The Mean Eyed Cat
+The Roosevelt Room
+The Secret Bar
+The Tigress Pub
+The Townsend
+The Upside
+The Vortex
+The Westwood Gastropub
+The Wheel
+The White Horse
+Tiniest Bar in Texas
+Twin Creeks Hall
+Upstairs at Caroline
+Violet Crown Social Club
+Waterhole Saloon
+WhichCraft Tap
+Whisler’s
+Wonder Bar
+Workhorse Bar
+Yard Bar
+Yellow Jacket Social Club

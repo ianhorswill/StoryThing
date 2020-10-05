@@ -1,0 +1,42 @@
+﻿Heading: The Taco run
+
+DebugHere: true
+
+Text:
+	[sequence]
+	"I'm just saying.  <i>The Sims</i> is slavery."
+	[then]
+	My housemate, Kali, was on again about her thesis.  I'm never really sure if she means it or
+	if she's just trolling her committee.
+	[then]
+	We're both grad students at UC Grover's Mill.  She works in Philosophy, I work in game AI.
+	We're on a late night run to the local Taco King.
+	
+	It's 1am.  It's Grover's Mill.  Options are limited.
+	
+	Finances too.
+	[then]
+	"Characters are people, my girl.  Just like corporations."
+
+	"Corporations are persons under the law," I said.  "They're not <i>ethical</i> persons."
+
+	"Well, that's certainly true about F---Book.  But corporations and characters are both social inventions.
+	Why should one have more rights than the other?"
+
+	"I'm pretty sure there's a fictional mouse that has more rights than I do."
+
+	"That's just the corporation that has those rights.  Mr. Mouse is a just a slave.
+	They probably keep him in chained in the basement when he's off the clock."
+	[then]
+	Kali reached the top of the hill.  She stopped.  "Weird."
+	[then]
+	I caught up with her.  "What?"  I followed her gaze.  "They're dark.  Taco King is never dark."
+
+	"Power failure?" She looked skeptical, even as she said it.
+
+	"Street lights are on.  How badly do you have to [FuckUp] to bankrupt the only late night
+	restaurant in a college town?"
+	[end]
+[end]
+
+FuckUp: fuck up
