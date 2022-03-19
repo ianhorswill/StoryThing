@@ -1,4 +1,4 @@
-﻿initially:
+﻿Initially:
 	[set LatestHe null]
     [set LatestShe null]
 	[set LatestThey null]
